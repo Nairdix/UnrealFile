@@ -874,3 +874,14 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.03.29-11.09.19:364][502]LogSavePackage: Moving '../../../../../Github/GitHub/UnrealFile/Lighthouse4/Saved/StartupMap571704B6486DA8B47012AA9803B12E1F.tmp' to '../../../../../Github/GitHub/UnrealFile/Lighthouse4/Content/VirtualRealityBP/Maps/StartupMap.umap'
 [2022.03.29-11.09.19:395][502]AssetCheck: New page: Asset Save: StartupMap
 [2022.03.29-11.09.19:395][502]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/StartupMap.StartupMap
+[2022.03.29-11.10.22:119][850]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2022.03.29-11.10.22:455][850]LogSlate: Took 0.184991 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.03.29-11.11.35:308][951]LogEditorViewport: Clicking on Actor (LMB): WaterBodyOcean (WaterBodyOcean)
+[2022.03.29-11.11.37:738][ 86]LogEditorViewport: Clicking on Actor (LMB): WaterBodyOcean (WaterBodyOcean)
+[2022.03.29-11.11.38:454][167]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2022.03.29-11.11.55:541][170]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Aunt_Animated_Model_with_Ponytail_Skeleton)
+[2022.03.29-11.12.12:613][393]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2022.03.29-11.12.26:526][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.03.29-11.12.26:580][976]LogSavePackage: Moving '../../../../../Github/GitHub/UnrealFile/Lighthouse4/Saved/StartupMap8FAEF3914743CF1DC28F1D83A909AC76.tmp' to '../../../../../Github/GitHub/UnrealFile/Lighthouse4/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2022.03.29-11.12.26:592][976]AssetCheck: New page: Asset Save: StartupMap
+[2022.03.29-11.12.26:592][976]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/StartupMap.StartupMap
