@@ -885,3 +885,62 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.03.29-11.12.26:580][976]LogSavePackage: Moving '../../../../../Github/GitHub/UnrealFile/Lighthouse4/Saved/StartupMap8FAEF3914743CF1DC28F1D83A909AC76.tmp' to '../../../../../Github/GitHub/UnrealFile/Lighthouse4/Content/VirtualRealityBP/Maps/StartupMap.umap'
 [2022.03.29-11.12.26:592][976]AssetCheck: New page: Asset Save: StartupMap
 [2022.03.29-11.12.26:592][976]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/StartupMap.StartupMap
+[2022.03.29-11.19.35:655][648]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.29-11.19.36:697][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.29-11.19.36:741][648]PIE: New page: PIE session: StartupMap (29 Mar 2022, 15:19:36)
+[2022.03.29-11.19.36:755][648]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.03.29-11.19.36:764][648]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.03.29-11.19.36:764][648]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2022.03.29-11.19.36:780][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015871s)
+[2022.03.29-11.19.36:780][648]LogAIModule: Creating AISystem for world StartupMap
+[2022.03.29-11.19.36:781][648]LogPlayLevel: PIE: World Init took: (0.001082s)
+[2022.03.29-11.19.36:781][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.017090s)
+[2022.03.29-11.19.36:784][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.03.29-11.19.36:792][648]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.03.29-11.19.36:792][648]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.29-11.19.36:792][648]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.29-11.19.36:792][648]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.29-11.19.36:792][648]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.29-11.19.36:792][648]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.29-11.19.36:792][648]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.29-11.19.36:792][648]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.29-11.19.36:792][648]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.29-11.19.36:792][648]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.29-11.19.36:792][648]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.29-11.19.36:795][648]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.29-11.19.36:795][648]LogAudioMixer: Display: 1: FrontRight
+[2022.03.29-11.19.36:809][648]LogAudioMixer: Display: Using Audio Device Luidsprekers (EDIFIER G2 II GAMING HEADSET)
+[2022.03.29-11.19.36:809][648]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.29-11.19.36:809][648]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.29-11.19.36:809][648]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.29-11.19.36:810][648]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.29-11.19.36:810][648]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.29-11.19.36:810][648]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.29-11.19.36:821][648]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.29-11.19.36:821][648]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.29-11.19.36:821][648]LogInit: FAudioDevice initialized.
+[2022.03.29-11.19.36:821][648]LogAudio: Display: Audio Device (ID: 2) registered with world 'StartupMap'.
+[2022.03.29-11.19.36:841][648]LogLoad: Game class is 'GameModeBase'
+[2022.03.29-11.19.36:865][648]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2022.03.29-13.19.36
+[2022.03.29-11.19.36:933][648]LogWorld: Bringing up level for play took: 0.072166
+[2022.03.29-11.19.36:933][648]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2022.03.29-11.19.36:987][648]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.03.29-11.19.37:002][648]PIE: Server logged in
+[2022.03.29-11.19.37:004][648]PIE: Play in editor total start time 0.338 seconds.
+[2022.03.29-11.19.45:593][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.29-11.19.45:593][641]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2022.03.29-11.19.45:594][641]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.29-11.19.45:595][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.29-11.19.45:630][641]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.29-11.19.45:638][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.29-11.19.45:640][641]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.29-11.19.45:641][641]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.29-11.19.45:642][641]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.29-11.19.45:654][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.29-11.19.45:667][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.03.29-11.19.45:704][642]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.03.29-11.20.31:987][113]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Aunt_Animated_Model_with_Ponytail_Skeleton)
+[2022.03.29-11.20.42:976][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.03.29-11.20.43:032][312]LogSavePackage: Moving '../../../../../Github/GitHub/UnrealFile/Lighthouse4/Saved/StartupMapFC9B09BA4D3E27898A16BEAFD32DA67F.tmp' to '../../../../../Github/GitHub/UnrealFile/Lighthouse4/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2022.03.29-11.20.43:045][312]AssetCheck: New page: Asset Save: StartupMap
+[2022.03.29-11.20.43:045][312]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/StartupMap.StartupMap
